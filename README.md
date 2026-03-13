@@ -1,4 +1,3 @@
-Indu, here is a clear and impressive README you can copy and paste into your README.md file on GitHub. It explains your dashboard professionally but still simple.
 
 📊 Amazon Prime Video Data Analysis Dashboard (Power BI)
 
@@ -75,30 +74,6 @@ Displays how the number of shows released on Prime Video has grown over time.
 
 This project demonstrates how Power BI can transform raw data into meaningful insights through interactive visualizations.
 The dashboard provides a clear overview of Prime Video content trends such as genre popularity, ratings distribution, and content growth over the years.
-
----
-
-⭐ This project was created as part of a Data Analytics / Data Visualization learning project using Power BI.How to add it in GitHub
-
-1. Go to your repository
-
-
-2. Click Add file → Create new file
-
-
-3. Name it README.md
-
-
-4. Paste the text above
-
-
-5. Click Commit new file
-
-
-
-Then your dashboard image will automatically appear on the GitHub page, making your project look very professional.
-
-If you want, I can also show you 3 small improvements you can add to this Power BI dashboard so it looks like a professional data analyst portfolio project.
 
 Author
 Indusri Chenna
