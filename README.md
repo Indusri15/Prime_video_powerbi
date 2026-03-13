@@ -99,3 +99,6 @@ The dashboard provides a clear overview of Prime Video content trends such as ge
 Then your dashboard image will automatically appear on the GitHub page, making your project look very professional.
 
 If you want, I can also show you 3 small improvements you can add to this Power BI dashboard so it looks like a professional data analyst portfolio project.
+
+Author
+Indusri Chenna
